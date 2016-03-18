@@ -3,6 +3,8 @@
 Complete Starter Kit With React Redux
 * Boostrap
 * Normalize
+* HTML 5 Boilerplate
+* React JS
 * SASS
 * SMACSS
 * Webpack
@@ -16,8 +18,8 @@ Just contact me for more information davidadisanjaya@gmail.com
 Clone this repo, install dependencies, then start the gulp process:
 
 ```
-	> git clone https://github.com/davidadisanjaya/WebsiteStarterKit.git
-	> cd WebsiteStarterKit
+	> git clone https://github.com/davidadisanjaya/ReactStarterKit.git
+	> cd ReactStarterKit
 	> npm install
 	> gulp
 ```
